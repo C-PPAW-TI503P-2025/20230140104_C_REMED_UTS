@@ -1,4 +1,4 @@
-# Library System with Geolocation
+<img width="1910" height="909" alt="Screenshot 2026-01-31 080433" src="https://github.com/user-attachments/assets/69fe524a-cc2d-428e-b842-8aa2491e7bf2" /># Library System with Geolocation
 
 ## Fitur Utama
 - **Role Simulation**: Simulasi role Admin dan User menggunakan Header `x-user-role`.
@@ -72,6 +72,9 @@
     }
     ```
   - Desc: Mengurangi stok buku dan mencatat lokasi peminjaman.
+DATABASE
+<img width="1910" height="909" alt="Screenshot 2026-01-31 080433" src="https://github.com/user-attachments/assets/f38ce317-3c28-4b58-9791-46f445fd2721" />
+<img width="1914" height="925" alt="Screenshot 2026-01-31 080420" src="https://github.com/user-attachments/assets/fb6ec1d7-ce7f-4f16-957c-69f3cdf32bad" />
 HALAMAN ADMIN
 <img width="1918" height="912" alt="Screenshot 2026-01-31 075834" src="https://github.com/user-attachments/assets/885bb5ee-c0f6-4f79-b71f-829282a1465b" />
 HALAMAN USER
