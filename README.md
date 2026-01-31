@@ -1,4 +1,4 @@
-<img width="1910" height="909" alt="Screenshot 2026-01-31 080433" src="https://github.com/user-attachments/assets/69fe524a-cc2d-428e-b842-8aa2491e7bf2" /># Library System with Geolocation
+# Library System with Geolocation
 
 ## Fitur Utama
 - **Role Simulation**: Simulasi role Admin dan User menggunakan Header `x-user-role`.
