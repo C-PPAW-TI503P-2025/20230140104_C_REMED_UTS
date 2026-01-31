@@ -1,4 +1,4 @@
-# Library System with Geolocation (UCP 1)
+# Library System with Geolocation
 
 ## Fitur Utama
 - **Role Simulation**: Simulasi role Admin dan User menggunakan Header `x-user-role`.
@@ -6,12 +6,7 @@
 - **User Features**: Peminjaman buku dengan pencatatan Geolocation (Latitude, Longitude).
 - **Validation**: Validasi input dan stok buku.
 
-## Prasyarat
-- Node.js installed
-- MySQL Database installed and running
-
 ## Struktur Database (Sequelize Generated)
-Aplikasi akan otomatis membuat tabel saat pertama kali dijalankan (`sequelize.sync({ alter: true })`).
 
 - **books**: Menyimpan data buku.
   - `id` (PK)
@@ -77,7 +72,12 @@ Aplikasi akan otomatis membuat tabel saat pertama kali dijalankan (`sequelize.sy
     }
     ```
   - Desc: Mengurangi stok buku dan mencatat lokasi peminjaman.
-
+HALAMAN ADMIN
+<img width="1918" height="912" alt="Screenshot 2026-01-31 075834" src="https://github.com/user-attachments/assets/885bb5ee-c0f6-4f79-b71f-829282a1465b" />
+HALAMAN USER
+<img width="1913" height="920" alt="Screenshot 2026-01-31 075819" src="https://github.com/user-attachments/assets/9720f020-1e16-4d3b-aba9-1fdd3ef9a663" />
+PEMINJAMAN DENGAN PETA
+<img width="1916" height="1014" alt="Screenshot 2026-01-31 075803" src="https://github.com/user-attachments/assets/08539f20-f98b-470d-9a85-a83f5e32ab8c" />
 ## Testing Screenshots
 GET ALL BOOKS
 <img width="1397" height="999" alt="image" src="https://github.com/user-attachments/assets/a296f45c-cb8e-4763-9ad7-b86e13ed503a" />
