@@ -79,3 +79,20 @@ Aplikasi akan otomatis membuat tabel saat pertama kali dijalankan (`sequelize.sy
   - Desc: Mengurangi stok buku dan mencatat lokasi peminjaman.
 
 ## Testing Screenshots
+GET ALL BOOKS
+<img width="1397" height="999" alt="image" src="https://github.com/user-attachments/assets/a296f45c-cb8e-4763-9ad7-b86e13ed503a" />
+GET BOOK BY ID
+<img width="1375" height="920" alt="image" src="https://github.com/user-attachments/assets/d6bca6f3-627a-45c3-9a4b-f215d0a0cbca" />
+CREATE BOOK
+<img width="1441" height="1012" alt="image" src="https://github.com/user-attachments/assets/8333e09a-5f1a-4ec8-b71e-df2ae29b64c5" />
+UPDATE BOOK
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/e854de08-3079-4a9d-964e-cd613297b1f5" />
+DELETE BOOK
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/83aa5b64-97bc-4128-9b54-60b5aedfece3" />
+BORROW/PEMINJAMAN
+<img width="1886" height="1005" alt="image" src="https://github.com/user-attachments/assets/1b6faa7c-e61e-4b17-ae82-120853ec67da" />
+
+
+
+
+
